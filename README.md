@@ -1,7 +1,7 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
 - 🔭 I’m currently working on [interrupted.me](https://interrupted.me)
-- 🌱 I’m currently learning PHP & Laravel
+- 🌱 I’m currently learning Go & Next.js
 - 📫 How to reach me: zero@interrupted.me
 <div align="center">
   <h2>Statistics</h2>
