@@ -20,3 +20,8 @@
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,bash,cloudflare,aws,docker,figma,grafana,vscode,phpstorm,androidstudio,postman,raspberrypi,wordpress" />
   </a>
 </div>
+<details>
+  <div align="center">
+    <img src="https://r2.resynced.design/cdn/x6bv20vU3675Oi5QgQoECMNbSA.gif" alt="POV" style="height: 250px" />
+  </div>
+</details>
