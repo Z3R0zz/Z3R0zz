@@ -6,7 +6,7 @@
 <div align="center">
   <h2>Statistics</h2>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Z3R0zz&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ivory-one.vercel.app?user=Z3R0zz&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <br>
   <br>
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Z3R0zz&color=blue" alt="Profile Views" /></a>
